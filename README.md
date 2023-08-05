@@ -8,7 +8,7 @@
 			<img src="https://img.shields.io/badge/-Linkedin-961711?logo=linkedin&logoColor=white&style=for-the-badge&color=red"/>
 		</a>
 		<a href="mailto:liamburja@gmail.com" target="_blank"></a>
-		<img src="https://img.shields.io/badge/-liamburja@gmail.com-961711?logo=gmail&logoColor=white&style=for-the-badge&color=red"/>
+		<img src="https://img.shields.io/badge/-liamburja@gmail.com-961711?logo=gmail&logoColor=white&style=for-the-badge&color=yellow"/>
 		</a>
 	</p>
 
@@ -115,7 +115,7 @@
 			<img src="https://img.shields.io/badge/-Linkedin-961711?logo=linkedin&logoColor=white&style=for-the-badge&color=red"/>
 		</a>
 		<a href="mailto:liamburja@gmail.com" target="_blank"></a>
-		<img src="https://img.shields.io/badge/-liamburja@gmail.com-961711?logo=gmail&logoColor=white&style=for-the-badge&color=red"/>
+		<img src="https://img.shields.io/badge/-liamburja@gmail.com-961711?logo=gmail&logoColor=white&style=for-the-badge&color=yellow"/>
 		</a>
 	</p>
 </div>
