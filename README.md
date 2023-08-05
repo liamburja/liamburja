@@ -68,7 +68,6 @@
 					<img src="mongodb.png" alt="MongoDB" height="50">
 							&nbsp&nbsp&nbsp
 					<img src="mysql.png" alt="Mysql" height="50">
-							&nbsp&nbsp&nbsp
 				</div>
 			</td>
 			<td valign="top" width="33.3333%">
@@ -76,15 +75,15 @@
 				<br>
 				<div align="center">
 					<img src="javascript.png" alt="JavaScript" height="50">
-							&nbsp&nbsp&nbsp
+							<br>
 					<img src="html5.png" alt="HTML5" height="50">
-							&nbsp&nbsp&nbsp
+					<br>
 					<img src="css3.png" alt="CSS3" height="50">
-							&nbsp&nbsp&nbsp
+					<br>
 					<img src="angular.png" alt="Angular" height="50">
-							&nbsp&nbsp&nbsp
+					<br>
 					<img src="vue.png" alt="Vue" height="50">
-							&nbsp&nbsp&nbsp
+					<br>
 				</div>
 			</td>
 			<td valign="top" width="33.3333%">
