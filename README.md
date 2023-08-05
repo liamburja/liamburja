@@ -80,9 +80,9 @@
 					&nbsp&nbsp&nbsp
 					<img src="css3.png" alt="CSS3" height="50" bottom="10">
 					&nbsp&nbsp&nbsp
-					<img src="angular.png" alt="Angular" height="50" bottom="10">
+					<img src="angular.png" alt="Angular" height="50">
 					&nbsp&nbsp&nbsp
-					<img src="vue.png" alt="Vue" height="50" bottom="10">
+					<img src="vue.png" alt="Vue" height="45">
 					&nbsp&nbsp&nbsp
 				</div>
 			</td>
