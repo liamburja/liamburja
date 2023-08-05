@@ -74,16 +74,11 @@
 				<h3 align="center" color="white">Frontend</h3>
 				<br>
 				<div align="center">
-					<img src="javascript.png" alt="JavaScript" height="50">
-							<br>
-					<img src="html5.png" alt="HTML5" height="50">
-					<br>
-					<img src="css3.png" alt="CSS3" height="50">
-					<br>
-					<img src="angular.png" alt="Angular" height="50">
-					<br>
-					<img src="vue.png" alt="Vue" height="50">
-					<br>
+					<img src="javascript.png" alt="JavaScript" height="50" bottom="10">
+					<img src="html5.png" alt="HTML5" height="50" bottom="10">
+					<img src="css3.png" alt="CSS3" height="50" bottom="10">
+					<img src="angular.png" alt="Angular" height="50" bottom="10">
+					<img src="vue.png" alt="Vue" height="50" bottom="10">
 				</div>
 			</td>
 			<td valign="top" width="33.3333%">
