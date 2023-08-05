@@ -75,10 +75,15 @@
 				<br>
 				<div align="center">
 					<img src="javascript.png" alt="JavaScript" height="50" bottom="10">
+					&nbsp&nbsp&nbsp
 					<img src="html5.png" alt="HTML5" height="50" bottom="10">
+					&nbsp&nbsp&nbsp
 					<img src="css3.png" alt="CSS3" height="50" bottom="10">
+					&nbsp&nbsp&nbsp
 					<img src="angular.png" alt="Angular" height="50" bottom="10">
+					&nbsp&nbsp&nbsp
 					<img src="vue.png" alt="Vue" height="50" bottom="10">
+					&nbsp&nbsp&nbsp
 				</div>
 			</td>
 			<td valign="top" width="33.3333%">
