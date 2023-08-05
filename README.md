@@ -13,13 +13,20 @@
 	</p>
 
 	<!-- ABOUT ME -->
-	<h2 align="center" color="white">About me</h2>
+	<h2 align="center" color="white">About Me</h2>
+<p align="center">
+Hello! I'm Liam and I'm an software engineer with a passion for web development. Currently with full-stack, backend, or frontend roles using JavaScript, Typescript, Node, Express, MongoDB, Svelte, Vue or React. Aside from programming, I support community development, always learning, and create content to support community.
+<p>
+
+<br>
+</br>
+	<!-- <h2 align="center" color="white">About me</h2>
 	<p align="center">
 		Hello! I'm Liam and I'm an mid programmer with a passion for web development. Currently with backend, frontend roles using React, PHP, Typescript, Javascript, MongoDB, Vue or Angular. I am intrigued to learn more and improve as a programmer to be able to contribute quality to the community
 	</p>
 
 	<br>
-	</br>
+	</br> -->
 
 	<!-- PROJECTS -->
 
