@@ -82,7 +82,7 @@
 					&nbsp&nbsp&nbsp
 					<img src="angular.png" alt="Angular" height="50">
 					&nbsp&nbsp&nbsp
-					<img src="vue.png" alt="Vue" height="45">
+					<img src="vue.png" alt="Vue" height="40">
 					&nbsp&nbsp&nbsp
 				</div>
 			</td>
