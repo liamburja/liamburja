@@ -13,7 +13,7 @@
 	</p>
 
 	<!-- ABOUT ME -->
-	<h2>About me</h2>
+	<h2 align="center" color="white">About me</h2>
 	<p align="center">
 		Hello! I'm Liam and I'm an mid programmer with a passion for web development. Currently with backend, frontend roles using React, PHP, Typescript, Javascript, MongoDB, Vue or Angular. I am intrigued to learn more and improve as a programmer to be able to contribute quality to the community
 	</p>
